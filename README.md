@@ -1,7 +1,7 @@
 # string.h
 ### Implementation of the main C library for string processing  - string.h library with additions(implementation of sprintf and sscanf functions).
  This is an educational project, so it's no longer supported!
-> 18.12.2022
+> 21.11.2022
 
 ## Important notes
 
